@@ -4,10 +4,8 @@ import colorama
 from colorama import Fore as F
 import sys
 import os
-import requests
 import time, asyncio
 import json
-import threading
 
 
 
