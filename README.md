@@ -1,5 +1,5 @@
 # Use
-  Enter token inthe prompt
+  Enter token in the prompt
 
 # How to get token
 Ctrl + Shift + I
