@@ -1,5 +1,6 @@
 # Use
-  Enter token in the prompt
+Enter token in the prompt <br />
+Enter message you would like to send
 
 # How to get token
 Ctrl + Shift + I <br />
