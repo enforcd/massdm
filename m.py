@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands, tasks
 import colorama
-from colorama import Fore as F
 import sys
 import os
 import time, asyncio
